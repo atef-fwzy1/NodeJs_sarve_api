@@ -25,6 +25,7 @@ It provides endpoints for user authentication, course enrollment, and administra
 .JWT for authentication
 
 --------------API Endpoints-----------------
+
 =>Authentication
 
 .POST /api/auth/register - Register a new user
